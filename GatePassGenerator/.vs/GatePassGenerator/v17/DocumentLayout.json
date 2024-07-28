@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|c:\\inhouse_project_file\\gatepassgenerator\\viewvisitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:viewvisitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\viewvisitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:viewvisitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\updatevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:updatevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:addvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\updatevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:updatevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\upadateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:upadateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\upadateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:upadateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:viewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\databaseoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:databaseoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3BE70DC-17ED-4C78-A4B6-91993FFFD9B8}|GatePassGenerator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewVisitors.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewVisitors.cs",
+              "RelativeDocumentMoniker": "ViewVisitors.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewVisitors.cs",
+              "RelativeToolTip": "ViewVisitors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:06:56.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewVisitors.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewVisitors.cs",
+              "RelativeDocumentMoniker": "ViewVisitors.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewVisitors.cs [Design]",
+              "RelativeToolTip": "ViewVisitors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:56:56.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateVisitor.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpdateVisitor.cs",
+              "RelativeDocumentMoniker": "UpdateVisitor.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpdateVisitor.cs",
+              "RelativeToolTip": "UpdateVisitor.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAIwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:04:35.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateVisitor.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpdateVisitor.cs",
+              "RelativeDocumentMoniker": "UpdateVisitor.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpdateVisitor.cs [Design]",
+              "RelativeToolTip": "UpdateVisitor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:51:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddVisitor.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddVisitor.cs",
+              "RelativeDocumentMoniker": "AddVisitor.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddVisitor.cs",
+              "RelativeToolTip": "AddVisitor.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwE8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:41:10.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddVisitor.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddVisitor.cs",
+              "RelativeDocumentMoniker": "AddVisitor.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddVisitor.cs [Design]",
+              "RelativeToolTip": "AddVisitor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:33:16.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteEmployee.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "DeleteEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\DeleteEmployee.cs",
+              "RelativeToolTip": "DeleteEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:00:25.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "DeleteEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\DeleteEmployee.cs [Design]",
+              "RelativeToolTip": "DeleteEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:52:50.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewEmployee.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewEmployee.cs",
+              "RelativeDocumentMoniker": "ViewEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewEmployee.cs",
+              "RelativeToolTip": "ViewEmployee.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:34:26.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewEmployee.cs",
+              "RelativeDocumentMoniker": "ViewEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\ViewEmployee.cs [Design]",
+              "RelativeToolTip": "ViewEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:52:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpadateEmployee.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpadateEmployee.cs",
+              "RelativeDocumentMoniker": "UpadateEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpadateEmployee.cs",
+              "RelativeToolTip": "UpadateEmployee.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAtwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:02:03.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpadateEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpadateEmployee.cs",
+              "RelativeDocumentMoniker": "UpadateEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\UpadateEmployee.cs [Design]",
+              "RelativeToolTip": "UpadateEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:51:36.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "AddEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddEmployee.cs",
+              "RelativeToolTip": "AddEmployee.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwGUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:38:59.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "AddEmployee.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:10:30.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwC0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:58:17.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:03:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAiwKQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:24:40.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAwwCYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:50:17.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseOperation.cs",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\DatabaseOperation.cs",
+              "RelativeDocumentMoniker": "DatabaseOperation.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\DatabaseOperation.cs",
+              "RelativeToolTip": "DatabaseOperation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:49:50.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\INHOUSE_PROJECT_FILE\\GatePassGenerator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:05:44.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
